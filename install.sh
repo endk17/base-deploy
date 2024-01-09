@@ -34,7 +34,7 @@ case $doing in
   sleep 3
   git clone https://github.com/endk17/base-node
   screen -S base
-  cd node
+  cd base-node
 
   echo "---------------------------------------------------"
   echo -e "Node installation is complete."
